@@ -53,4 +53,16 @@ export const currencyByRupees : Currency[] = [
     flag: '🎰',
     symbol: '₿',
   },
+  {
+    name: "DIRHAM",
+    value: 0.044,
+    flag: "🇦🇪",
+    symbol: "د.إ",
+  },
+  {
+    name: "SAUDI RIYAL",
+    value: 0.045,
+    flag: "🇸🇦",
+    symbol: "ر. س",
+  },
 ];
